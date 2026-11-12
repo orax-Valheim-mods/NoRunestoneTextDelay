@@ -1,0 +1,9 @@
+﻿{
+  "name": "NoRunestoneTextDelay",
+  "description": "Removes the delay before runestone text appears. The inscription shows instantly when you read it.",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/orax-Valheim-mods",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
