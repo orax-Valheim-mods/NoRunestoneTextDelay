@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "NoRunestoneTextDelay",
   "description": "Removes the delay before runestone text appears. The inscription shows instantly when you read it.",
   "version_number": "0.1.0",
